@@ -1,0 +1,72 @@
+#title {
+    padding: 0;
+}
+
+#title .try {
+    font-size: 40px;
+    position: absolute;
+    top: -0.5em;
+    left: 1.5em;
+
+    -webkit-transform: translateZ(20px);
+    -moz-transform:    translateZ(20px);
+    -ms-transform:     translateZ(20px);
+    -o-transform:      translateZ(20px);
+    transform:         translateZ(20px);
+}
+
+
+
+#title .footnote {
+    font-size: 32px;
+}
+
+#title h1 {
+    font-size: 66px;
+    padding-top: 50px;
+    -webkit-transform: translateZ(50px);
+    -moz-transform:    translateZ(50px);
+    -ms-transform:     translateZ(50px);
+    -o-transform:      translateZ(50px);
+    transform:         translateZ(50px);
+}
+
+
+#best-ideas {
+    font-size: 35px;
+}
+
+#definition p{
+    padding-top: 50px;
+    font-size: 35px;
+}
+
+#visual-design h1 {
+    font-size: 100px;
+}
+
+
+#interaction-design h1 {
+    font-size: 80px;
+    padding-bottom: 50px;
+    
+}
+
+#interaction-design h1 span{
+    font-size: 20px;
+    
+}
+
+#interaction-design p {
+    font-size: 25px;
+}
+
+#interaction-design a {
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 500px;
+}
+
+.id-rule p {
+    font-size: 35px;
+}
