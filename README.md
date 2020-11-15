@@ -1,6 +1,6 @@
-Title
+Project Title
 ============
-Introduction to HCI, by @imnirdst, [See the presentation](http://imnirdst.github.io/Intro-to-HCI/)
+Introduction to Human Computer Interaction, by @imnirdst, [See the presentation](https://imnirdst.github.io/Impress.js-Introduction-to-HCI)
 
 
 
